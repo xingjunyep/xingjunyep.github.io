@@ -1,0 +1,9 @@
+navbar:
+  blog_title: "STAR"
+index:
+  banner_img: /img/default.png
+  banner_img_height: 100
+  banner_mask_alpha: 0.3
+  slogan:
+    enable: true
+    text: 欢迎来到我的个人网站
