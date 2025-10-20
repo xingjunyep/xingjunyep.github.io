@@ -1,8 +1,28 @@
+
+# ---- OS / 编辑器杂项 ----
 .DS_Store
 Thumbs.db
-db.json
-*.log
+*.swp
+*.swo
+
+# ---- Obsidian 私有配置（强烈建议忽略）----
+.obsidian/
+.obsidian-cache/
+.obsidian-*/        # 某些插件会建临时目录
+
+# ---- Node / Hexo 构建产物 ----
 node_modules/
 public/
 .deploy*/
 .cache/
+db.json
+
+# ---- 日志 / 临时文件 ----
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ---- 你不想被追踪的其他路径（可选）----
+# drafts 如果不想同步，可以取消注释
+# source/_drafts/
