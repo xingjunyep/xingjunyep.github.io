@@ -1,5 +1,5 @@
 ---
-title: �������̲���
+title: 笔记自动上传博客pipeline
 date: 2025-10-19 14:00:00
 categories:
   - ��ά
@@ -7,8 +7,4 @@ categories:
 tags:
   - Hexo
 ---
-
-阿萨大大阿松大
-adadkahiah 
-测试obsidian
-阿三大苏打大苏打撒旦
+1.zsdasd
